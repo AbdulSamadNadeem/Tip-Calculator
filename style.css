@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.header{
+    margin-top: 30px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+
+}
+body{
+    background-color: aliceblue;
+}
+.main{
+    margin: 60px auto;
+    width: 600px;
+    height: 500px;
+    border: 1px solid #4cd137;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;;
+    background-color: #fff;
+
+}
+.main p{
+    padding-top: 30px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.main h4{
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.main input{
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    
+}
+.calculate{
+    width: 120px;
+    height: 30px;
+    border: 1px solid #4cd137;
+    border-radius: 10px;
+    position: relative;left: 200px;
+    margin-top: 20px;
+
+}
+.main .total{
+    padding-left: 30px;
+    padding-top: 20px;
+    text-decoration: underline;
+}
+#policy{
+    text-align: center;
+    margin-top: 10%;
+}
